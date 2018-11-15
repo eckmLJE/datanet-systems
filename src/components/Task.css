@@ -1,0 +1,21 @@
+li {
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px;
+  font-size: 0.8em;
+}
+
+li span {
+  margin-right: 5px;
+}
+
+.promote {
+  margin-left: 5px;
+}
+
+.promote button {
+  border: none;
+  margin-right: 3px;
+  font-size: 1em;
+  line-height: 1.1em;
+}
