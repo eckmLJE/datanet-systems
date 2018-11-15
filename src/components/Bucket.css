@@ -31,6 +31,6 @@
 @media only screen and (max-width: 860px) {
   .bucket {
     width: 100%;
-    max-width: 400px;
+    max-width: 300px;
   }
 }

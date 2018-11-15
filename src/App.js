@@ -40,6 +40,19 @@ class App extends Component {
       }
     ]
   };
+  // componentDidMount = () => {
+  //   this.setLocalStorage(stateStore);
+  //   this.setState();
+  // };
+
+  // getLocalStorage = () => {
+  //   return localStorage.getItem("kanban");
+  // };
+
+  // setLocalStorage = state => {
+  //   let stringState = JSON.stringify(state);
+  //   localStorage.setItem("kanban", stringState);
+  // };
 
   taskIdCounter = 9;
 
